@@ -16,7 +16,7 @@
 #clone the repo
 $git clone https://github.com/theNareshofficial/ip_address_generator.c.git
 
-#change Directory Bomb.py
+#change Directory 
 $cd ip_address_generator.c
 
 #compile
