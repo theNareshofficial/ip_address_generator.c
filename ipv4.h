@@ -20,7 +20,7 @@ int ipv4_generator()
 
 // Function to generate a random IPv4 address
         int num_addresses;
-        printf("\n\033[1;33m [+]\033[1;32m Enter the number of IPv6 addresses to generate : ");
+        printf("\n\033[1;33m [+]\033[1;32m Enter the number of IPv4 addresses to generate : ");
         scanf("%d",&num_addresses);
         printf("\n");
 
